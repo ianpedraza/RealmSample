@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RealmSample</string>
+    <string name="add_person">Add Person</string>
+</resources>
